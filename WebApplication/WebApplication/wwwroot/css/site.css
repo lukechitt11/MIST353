@@ -1,0 +1,10 @@
+/* Add your custom CSS styles here */
+body {
+    background-color: #f0f8ff; /* Light Blue background color */
+}
+
+.custom-text {
+    color: #ff4500; /* Orange-Red text color */
+    font-size: 20px;
+    font-weight: bold;
+}
